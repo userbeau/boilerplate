@@ -2,7 +2,3 @@ body {
   background-color: $bgcolor;
   font-family: $basefont;
 }
-
-p {
-  @include box;
-}
